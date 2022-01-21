@@ -1,3 +1,5 @@
 Es un archivo de prueba
 
 Nueva linea
+
+Linea de error
