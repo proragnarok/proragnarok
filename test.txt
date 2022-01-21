@@ -2,4 +2,4 @@ Es un archivo de prueba
 
 Nueva linea
 
-Linea de error
+Se quita la linea
